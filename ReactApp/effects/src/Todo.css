@@ -1,4 +1,4 @@
-.todoComponent {
+/* .todoComponent {
     border: 1px solid #8aecff;
 }
 
@@ -8,9 +8,13 @@
 }
 
 .deleteIcon {
-    position: relative;
-    float: right;
-
     margin: auto;
+    display: inline-block;
+    margin-right: auto;
+    height: 100%;
+    margin-top: auto;
 
+} */
+.ListComponent {
+    width: 100%;
 }
