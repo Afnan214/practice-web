@@ -1,11 +1,15 @@
 import './App.css'
-import Counter from './counter'
+import { CssBaseline } from '@mui/material'
+import TodoApp from './TodoApp'
 function App() {
 
 
   return (
     <>
-      <Counter/>
+      <CssBaseline />
+      <div className="app">
+        <TodoApp />
+      </div >
     </>
   )
 }

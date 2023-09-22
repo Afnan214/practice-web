@@ -1,0 +1,17 @@
+.listContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.listTitle {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+.listArea {
+    width: 75%;
+    margin: auto;
+}
